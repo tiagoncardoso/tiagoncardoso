@@ -1,7 +1,7 @@
 <h1 align="center">Tiago Cardoso</h1>
 <h3 align="center"> 👨🏻‍💻 :heart: Tech Lover, life lover, challenger lover</h3>
 <h3 align="center"> 
-<a align="center" href="https://www.linkedin.com/in/tiago-manoel-nascimento-cardoso-b0294b39/" rel="nofollow noreferrer">
+<a align="center" href="https://www.linkedin.com/in/tiagomncardoso/" rel="nofollow noreferrer">
   <img src="https://img.shields.io/static/v1?label=me&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin"/>
 </a>
 </h3>
