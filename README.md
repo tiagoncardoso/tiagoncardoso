@@ -20,8 +20,9 @@
 <br/>
 
 ## 🧮📐 Statistics
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoncardoso" alt="tiagoncardoso" /></a> </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoncardoso&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiagoncardoso&show_icons=true&theme=tokyonight)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoncardoso&" alt="tiagoncardoso" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoncardoso&" alt="tiagoncardoso" />
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tiagoncardoso&row=2&column=3&theme=dracula" alt="tiagoncardoso"/></a>
