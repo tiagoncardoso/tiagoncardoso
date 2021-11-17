@@ -7,7 +7,7 @@
 </h3>
 
 ## 👨🏻‍💻 About me
-- 🌱 I’m currently learning **Docker, Kubernetes, ELK Stack**
+- 🌱 I’m currently learning **Docker, Kubernetes, ELK Stack, Go**
 - 💬 Ask me about **Symfony, PHP**
 - 📫 How to reach me **tiago.mncardoso@gmail.com**
 
