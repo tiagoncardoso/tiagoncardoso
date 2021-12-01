@@ -8,7 +8,7 @@
 
 ## 👨🏻‍💻 About me
 - 🌱 I’m currently learning **Docker, Kubernetes, ELK Stack, Go**
-- 💬 Ask me about **Symfony, PHP**
+- 💬 Ask me about **Symfony, PHP, VueJS, Docker, RabbitMQ, Linux**
 - 📫 How to reach me **tiago.mncardoso@gmail.com**
 
 <hr/>
