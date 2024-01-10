@@ -7,8 +7,8 @@
 </h3>
 
 ## 👨🏻‍💻 About me
-- 🌱 I’m currently learning **Docker, Kubernetes, ELK Stack, Go**
-- 💬 Ask me about **Symfony, PHP, VueJS, Docker, RabbitMQ, Linux**
+- 🌱 I’m currently learning **Golang**
+- 💬 Ask me about **Software Develpment, Software Architecture, Linux**
 - 📫 How to reach me **tiago.mncardoso@gmail.com**
 
 <hr/>
