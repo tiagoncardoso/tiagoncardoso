@@ -6,8 +6,10 @@
 </a>
 </h3>
 
-## 👨🏻‍💻 Reach me
-- 📫 **tiago.mncardoso@gmail.com**
+## 👨🏻‍💻 About me
+🌱 I’m currently learning Golang
+💬 Ask me about Software Development, Software Architecture, Linux
+📫 How to reach me tiago.mncardoso@gmail.com
 
 <hr/>
 
