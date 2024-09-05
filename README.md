@@ -7,9 +7,9 @@
 </h3>
 
 ## 👨🏻‍💻 About me
-🌱 I’m currently learning Golang
-💬 Ask me about Software Development, Software Architecture, Linux
-📫 How to reach me tiago.mncardoso@gmail.com
+- 🌱 I’m currently learning Golang
+- 💬 Ask me about Software Development, Software Architecture, Linux
+- 📫 How to reach me tiago.mncardoso@gmail.com
 
 <hr/>
 
